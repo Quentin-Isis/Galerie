@@ -1,0 +1,8 @@
+galerie\entity\Tableau.class
+galerie\dao\GalerieRepository.class
+galerie\WebApp.class
+galerie\entity\Exposition.class
+galerie\entity\Transaction.class
+galerie\entity\Galerie.class
+galerie\entity\Personne.class
+galerie\entity\Artiste.class
